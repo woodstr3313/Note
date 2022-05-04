@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/woodstr3313/Note-Taker.git"
+    "url": "git+https://github.com/woodstr3313/Note.git"
   },
   "bugs": {
-    "url": "https://github.com/woodstr3313/Note-Taker/issues"
+    "url": "https://github.com/woodstr3313/Note/issues"
   },
-  "homepage": "https://github.com/woodstr3313/Note-Taker#readme",
+  "homepage": "https://github.com/woodstr3313/Note#readme",
   "engines": {
     "node": "16.x"
   },
