@@ -46,7 +46,7 @@ if (window.location.pathname === "/notes") {
         const id = nt.firstElementChild.firstElementChild.dataset.id;
         console.log(id);
 
-        fetch(`https://note-taker-tw.herokuapp.com/api/all/notes/${id}`, {
+        fetch(`/api/all/notes/${id}`, {
           method: "GET",
           headers: {
             "Content-Type": "application/json",
