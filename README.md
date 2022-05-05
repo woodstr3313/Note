@@ -12,7 +12,7 @@
   
 ## Usage
 https://note-taker-tw.herokuapp.com <br />
-https://github.com/woodstr3313/Note-Taker <br />
+https://github.com/woodstr3313/Note <br />
 Please use this video for a complete walkthrough: https://drive.google.com/file/d/1rHPB4LAEqNQ062wPS5ER2OEbeTBbjram/view
 
 ## License
